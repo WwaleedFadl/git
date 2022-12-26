@@ -1,3 +1,2 @@
-# gitHub
-testing some gitHub commands ,  
-this repo wont help u amego 
+# github
+testing some github commands , this repo wont help u amigo 
